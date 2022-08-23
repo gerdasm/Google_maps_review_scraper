@@ -1,0 +1,66 @@
+1661253887647	geckodriver	INFO	Listening on 127.0.0.1:51372
+1661253889651	mozrunner::runner	INFO	Running command: "C:\\P1661253889672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\*** You are running in headless mode.
+1661253889967	Marionette	INFO	Marionette enabled
+16612538891661253889980	Marionette	INFO	Marionette enabled
+1661253889984	Marionette	INFO	Listening on poRead port: 51421
+1661253890236	RemoteAgent	WARN	TLS certificate errors will b1661253890292	RemoteAgent	WA[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: Rendconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\germik\\AppData\\Local\\TeDevTools listening on ws://localhost:51370/devtools/browser/DevTools listening on ws://localhost:5console.warn: LoginRecipes: "getRecipes: falling back to a sconsole.warn: LoginRecipes: "getRecipes: falling back tJavaScript warning: https://www.google.com/maps/_/js/k=maps.JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.lt.Sfy1C2Odgrg.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=2gEYIgIAAAAI/rt=j/d=1/rs=ACT90oFss-pbKPN-1cCRWVPDISAgF2s68Q, line 1981: WEBGL_debug_renderer_info is depreJavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+ level 0 is incurring lazy initialization.
+ement uploads.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1661253944277	geckodriver	INFO	Listening on 127.0.0.1:51792
+1661253946286	mozrunner::runner	INFO	Running command: "C:\\P1661253946314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51798" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\*** You are running in headless mode.
+1661253946621	Marionette	INFO	Marionette enabled
+16612539461661253946629	Marionette	INFO	Marionette enabWebDr1661253946634	Marionette	INFO	Listening on poRead port: 51841
+1661253946847	RemoteAgent	WARN	TLS certificate errors will b1661253946868	RemoteAgent	WA[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: Rendconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\germik\\AppData\\Local\\TeDevTools listening on ws://localhost:51787/devtools/browser/b17fc9e8-3751-46de-acf7-aedfbead220d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.google.com"
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.lt.rnd86W_a1vA.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=2gEYIgIAAAAI/rt=j/d=1/rs=ACT90oE4p86e2_BnzTAMscko4bpBF7H-Fg, line 2024: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: AlJavaScript warning: , line 0: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1661254014444	geckodriver	INFO	Listening on 127.0.0.1:52196
+1661254016456	mozrunner::runner	INFO	Running command: "C:\\P1661254016466	mozrunner::runner	INFO	Running command: "C:\\P1661254016520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52221" "--remote-allow-hosts" "localhost" "-no-rem1661254016962	Marionette	INFO	Marionette enabled
+1661254016969	Marionette	INFO	Listening on port 52303
+WebDriver BiDi 1661254017078	Marionette	INFO	Marionette enabled
+161661254017140	RemoteAgent	WARN	TLS certificate errors will b1661254017329	RemoteAgent	WA[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: Rendconsole.warn: SearchSettings: "get: No settings[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("CoulDevTools listening on ws://localhost:52197/devtools/browser/DevTools listening on ws://localhost:5console.warn: LoginRecipes: "getRecipes: falling back to a sconsole.warn: LoginRecipes: "getRecipes: falling back tJavaScript warning: https://www.google.com/maps/_/js/k=maps.JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.lt.Sfy1C2Odgrg.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=2gEYIgIAAAAI/rt=j/d=1/rs=ACT90oFss-pbKPN-1cCRWVPDISAgF2s68Q, line 1981: WEBGL_debug_renderer_info is depreJavaScript warning: , line 0: WebGL warning: texSubImage: TeJavaScript warning: , line 0: WebGL warning: texSubImage: TeJavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JaJavaScript warning: , line 0: WebGL warning: texSubImage: AlJavaScript warning: , line 0: WebGL warning: copyTexSubImage1661254197885	Marionette	INFO	Stopped listening on port 52313
+orcing the browser to clear it. This may be slow.
+JavaScript warning: , JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload1661254104173	Marionette	INFO	Stopped listening on port 52300
+exture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaSc1661254191604	Marionette	INFO	Stopped listening on port 52301661254267107	Marionette	INFO	Stopped listening on port 52301
+1254210985	Marionette	INFO	Stopped listening on port 52302
